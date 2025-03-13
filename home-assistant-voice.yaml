@@ -1542,7 +1542,7 @@ micro_wake_word:
     - model: https://github.com/sergeantc03/microWakeWord/releases/download/wake_words/excuse_me_alfred.json
       id: excuse_me_alfred
     - model: https://github.com/CrunkA3/microWakeWord/releases/download/doh_rie/doh_rie.json
-      id: dohrie
+      id: doh_rie
     - model: https://github.com/kahrendt/microWakeWord/releases/download/stop/stop.json
       id: stop
       internal: true
