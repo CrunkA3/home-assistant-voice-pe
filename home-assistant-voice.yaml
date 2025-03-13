@@ -1539,6 +1539,8 @@ micro_wake_word:
       id: hey_jarvis
     - model: hey_mycroft
       id: hey_mycroft
+    - model: https://github.com/sergeantc03/microWakeWord/releases/download/wake_words/excuse_me_alfred.json
+      id: excuse_me_alfred
     - model: https://github.com/kahrendt/microWakeWord/releases/download/stop/stop.json
       id: stop
       internal: true
